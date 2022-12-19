@@ -1,5 +1,3 @@
-# arduino-temperature-control
-
 <hr/>
 <h3> Programming Goal </h3>
 <p> Create an Arduino program for a temperature-controlled system. The simulated system will regulate the temperature based on the given temperature range as LOW, MEDIUM and HIGH. The 3 DC Motors will act as the coolers to regulate the temperature of the system. The 3 LEDs will indicate the temperature. The LCD will display the actual temperature and its range. </p>
