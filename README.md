@@ -9,7 +9,6 @@
   <li>3 DC Motors</li>
   <li>LCD 16 x 2 (I2C)</li>
   <li>9V Battery</li>
-  <li>9V Battery</li>
   <li>H-Bridge Motor Driver (L293D)</li>
   <li>3 1kΩ Resistor</li>
 </ul>
